@@ -1,0 +1,10 @@
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\bin\Debug\TASK _1.exe.config
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\bin\Debug\TASK _1.exe
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\bin\Debug\TASK _1.pdb
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK _1.csproj.AssemblyReference.cache
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK__1.Form1.resources
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK__1.Properties.Resources.resources
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK _1.csproj.GenerateResource.cache
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK _1.csproj.CoreCompileInputs.cache
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK _1.exe
+F:\C#\training\training\LinqTraining\ADO.NET TASK\TASK _1\TASK _1\obj\Debug\TASK _1.pdb
